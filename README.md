@@ -1,5 +1,13 @@
 # MiCheck
+Verify Xiaomi device region
 
 [https://mi-check-app.onrender.com](https://mi-check-app.onrender.com)
 
-Verify your Xiaomi device region quickly and accurately.
+---
+
+## Why Choose MiCheck?
+Most verification tools — including the official [mi.com/global/verify](https://mi.com/global/verify) — rely on **IMEI numbers**, but these methods are no longer fully reliable.  
+
+In many cases, devices are deliberately altered, with IMEI numbers changed from **Chinese** to **Global** or vice versa. As a result, these services may fail to provide a definitive and accurate result, and can even be misleading.  
+
+With **MiCheck**, you can verify Xiaomi device regions directly through the **device token**, ensuring unmatched accuracy and reliability even if the IMEI has been modified.
