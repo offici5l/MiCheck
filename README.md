@@ -1,7 +1,7 @@
 # MiCheck
 Verify Xiaomi device region
 
-[mi-check.pages.dev/](https://mi-check.pages.dev/)
+[mi-check.pages.dev](https://mi-check.pages.dev)
 
 ---
 
