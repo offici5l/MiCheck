@@ -12,6 +12,6 @@ https://offici5l.github.io/MiCheck
 
 ## Why MiCheck?
 
-Unlike IMEI-based checks, **MiCheck** verifies whether your Xiaomi device is a genuine Global Version using the CPU ID — a hardware identifier that cannot be altered or spoofed.
+Most Xiaomi device region-checking tools rely on IMEI — which can be easily changed or spoofed, making those checks unreliable. MiCheck uses the CPU ID, an identifier that cannot be changed or faked, ensuring an accurate and trustworthy result.
 
 </div>
