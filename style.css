@@ -429,3 +429,40 @@ body {
     opacity: 1;
   }
 }
+
+/* Why MiCheck section */
+.why-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--orange);
+  border-radius: var(--radius);
+  padding: 1rem 1.125rem;
+  margin-bottom: 0.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.why-title {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--orange);
+  margin-bottom: 0.5rem;
+}
+
+.why-text {
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--text-2);
+}
+
+.why-text strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.why-text em {
+  font-style: normal;
+  color: var(--orange);
+  font-weight: 500;
+}

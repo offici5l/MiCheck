@@ -34,9 +34,6 @@
   }
 
   function onCodeNamesReady() {
-    var badge = document.getElementById('badge');
-    badge.textContent   = allCodenames.length + ' Devices Supported';
-    badge.style.display = 'inline-block';
     document.getElementById('sheet-title').textContent = 'Select Device';
     renderItems(allCodenames, '');
   }

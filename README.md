@@ -1,6 +1,11 @@
-
 # MiCheck
 
-Verify if your Xiaomi device is an Official Global Version via CPU ID.
+> Verify whether your Xiaomi device is an Official Global Version
 
-**Live:** https://offici5l.github.io/MiCheck
+https://offici5l.github.io/MiCheck
+
+---
+
+## Why MiCheck?
+
+Unlike IMEI-based checks, **MiCheck** verifies whether your Xiaomi device is a genuine Global Version using the CPU ID — a hardware identifier that cannot be altered or spoofed.
